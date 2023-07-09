@@ -1,0 +1,11 @@
+.stat_list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.stat_list_item {
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.06;
+}
